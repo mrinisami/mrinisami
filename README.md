@@ -1,3 +1,1 @@
-Hi, I'm Sami M'rini, I'm mainly interested in modelizing processes to create an alpha through regressions and machine learning.
-I've uploaded some of the work I've had to do during my masters degree alongside some personal projects.
-From now and then, I also dabble in some programing problems.
+Hi, I'm Sami M'rini, I have a background in Finance and I've started creating fullstack applications in the summer of 2022. You'll find that some of the repos are solely linked to the financial realm.
